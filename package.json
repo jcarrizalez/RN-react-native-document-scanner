@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AugustoPinheiro/react-native-document-scanner"
+    "url": "https://github.com/jcarrizalez/react-native-document-scanner"
   },
   "keywords": [
     "react-native",
@@ -18,9 +18,9 @@
   "author": "Augusto Pinheiro",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "0.49.3"
+    "react-native": "0.68.2"
   },
   "dependencies": {
-    "react": "16.0.0-beta.5"
+    "react-native": "0.68.2"
   }
 }
